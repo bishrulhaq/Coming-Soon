@@ -1,7 +1,7 @@
 include: [".well-known"]
 title: BH
 baseurl: "/coming-soon"
-url: "http://bishrulhaq.com"
+url: "https://bishrulhaq.github.io/coming-soon/."
 
 # Build settings
 markdown: kramdown
