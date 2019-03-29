@@ -1,9 +1,10 @@
 include: [".well-known"]
+title:BH
 
 url: "http://bishrulhaq.com"
 
 # Build settings
-markdown: kramdown
+
 plugins:
   - jekyll-feed
 
