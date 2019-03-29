@@ -2,6 +2,7 @@ include: [".well-known"]
 title:BH
 
 url: "http://bishrulhaq.com"
+baseurl: "coming-soon"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
