@@ -1,6 +1,6 @@
 include: [".well-known"]
 title: BH
-baseurl: "coming-soon"
+
 url: "http://bishrulhaq.com"
 
 # Build settings
