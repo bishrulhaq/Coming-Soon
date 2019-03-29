@@ -1,7 +1,9 @@
-include: [".well-known/acme-challenge"]
+
 title: BH
 baseurl: "coming-soon"
 url: "http://bishrulhaq.com"
+
+include: [".well-known/acme-challenge"]
 
 # Build settings
 markdown: kramdown
