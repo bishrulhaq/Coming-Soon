@@ -1,4 +1,4 @@
-include: [".well-known/acme-challenge/mwvHYwMe03TQqoRNuFJXEohjiUMOV5eh6uPw39hNzLk"]
+include: [".well-known/acme-challenge"]
 title: BH
 baseurl: "coming-soon"
 url: "http://bishrulhaq.com"
