@@ -1,6 +1,6 @@
 include: [".well-known"]
 title: BH
-baseurl: "/coming-soon"
+baseurl: "coming-soon"
 url: "https://bishrulhaq.github.io/coming-soon/."
 
 # Build settings
